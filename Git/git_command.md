@@ -70,3 +70,9 @@ git log
 ```
 
 These are just a few basic Git commands, and there are many more available for various purposes. You can use git --help or git [command] --help for more information on a specific command or refer to the Git documentation for detailed usage instructions.
+```
+git --help
+OR
+git [command] --help
+```
+
